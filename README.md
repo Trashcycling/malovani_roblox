@@ -16,7 +16,6 @@ Projekt je pixelová kreslicí aplikace postavená celá uvnitř Robloxu pomocí
 | Vstup | Akce |
 |---|---|
 | **Levé tlačítko myši + tah** | Kreslení (čára / bod polygonu / tah tvaru) |
-| **Pravé tlačítko myši + tah** | Začernění existujících pixelů (nástroj gumy) |
 | **Shift** | Přichycení čar na násobky 45° / omezení tvarů na čtverec |
 | **Ctrl** | Přepnutí na čárkovanou čáru u aktuálního tahu |
 | **Mezerník** | Držením posouváte plátno |
